@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403601886832",
+    "project_id": "temporaryproject1-71b94",
+    "storage_bucket": "temporaryproject1-71b94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403601886832:android:14385b4f37ad4a9793eeb5",
+        "android_client_info": {
+          "package_name": "com.example.sunhackshealthtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqSfjRF__OBEuJGHdUslXx8uQbnlR2YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
