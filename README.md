@@ -108,6 +108,21 @@ Patient Generates QR → Doctor Scans QR → Backend Validates → Retrieves Med
 
 ---
 
+## 📸 Screenshots
+Homepage
+<img width="1122" height="700" alt="image" src="https://github.com/user-attachments/assets/ba3fb281-16af-4c9e-9c22-0fec99e4cd43" />
+
+Doctor dashbaord 
+<img width="1026" height="691" alt="image" src="https://github.com/user-attachments/assets/80271798-e955-4342-93e6-fdba108d1da3" />
+
+Patient Dashboard
+<img width="1237" height="683" alt="image" src="https://github.com/user-attachments/assets/1ec38053-5842-4b5c-a3fb-453afedaa676" />
+
+
+
+
+
+
 ## 💻 Setup Instructions
 
 ### 🧱 Backend (Django)
@@ -195,3 +210,4 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fi
 
 ## 🧠 Keywords
 Flutter, Django, QR Code, HealthTech, Medical History, Doctor, Patient, Cloud Database, Secure Records, IoT, Mobile App
+
